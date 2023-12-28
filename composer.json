@@ -1,0 +1,19 @@
+{
+    "name": "inspire/contracts",
+    "description": "Collection of PHP interfaces.",
+    "type": "metapackage",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Inspira\\Contracts\\": "."
+        }
+    },
+    "authors": [
+        {
+            "name": "Ronald Lambino",
+            "email": "50892397+nadlambino@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
