@@ -1,7 +1,7 @@
 {
     "name": "inspire/contracts",
     "description": "Collection of PHP interfaces.",
-    "type": "metapackage",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
